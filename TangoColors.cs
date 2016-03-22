@@ -42,5 +42,7 @@ namespace FlipbookGames
 		public static Color32 aluminium5 = new Color32(0x55, 0x57, 0x53, 0xff);
 		public static Color32 aluminium6 = new Color32(0x2e, 0x34, 0x36, 0xff);
 		public static Color32 aluminium7 = new Color32(0x11, 0x11, 0x11, 0xff);
+		
+		public static int Cosmos = 100;
 	}
 }
